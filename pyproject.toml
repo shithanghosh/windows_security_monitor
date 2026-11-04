@@ -1,0 +1,11 @@
+[tool.poetry]
+name = "windows-security-monitor"
+version = "0.2.0"
+description = "Windows 10/11 Python Monitoring Agent"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+fastapi = "*"
+uvicorn = "*"
+pydantic = "*"
+pydantic-settings = "*"
