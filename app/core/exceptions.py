@@ -1,0 +1,2 @@
+class MonitorException(Exception):
+    pass
